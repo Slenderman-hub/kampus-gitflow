@@ -1,0 +1,4 @@
+  develop
+  feature/electronic-dean-office
+  main
+* release/2.0.0

@@ -1,0 +1,25 @@
+*   5e81424 (HEAD -> develop) sync: hotfix/2.0.1 -> develop
+|\  
+* \   e0818b4 sync: release/2.0.0 -> develop
+|\ \  
+| | | *   2e31d57 (tag: v2.0.1, main) hotfix: 2.0.1 auth bypass
+| | | |\  
+| | | |/  
+| | |/|   
+| | * | dacf21f fix(security): ╨╖╨░╨║╤А╤Л╤В ╨╛╨▒╤Е╨╛╨┤ JWT ╨▓ /auth/login
+| | |/  
+| | *   e926f2b (tag: v2.0.0) release: 2.0.0
+| | |\  
+| | |/  
+| |/|   
+| * | 21d1d55 fix(release): ╨╕╤Б╨┐╤А╨░╨▓╨╗╨╡╨╜╨░ ╤Б╨╛╤А╤В╨╕╤А╨╛╨▓╨║╨░ ╤Б╤В╤Г╨┤╨╡╨╜╤В╨╛╨▓ ╨┐╨╛ ╨│╤А╤Г╨┐╨┐╨░╨╝
+| * | 64d336c chore(release): bump version to 2.0.0
+|/ /  
+* |   711bf86 merge: feature/electronic-dean-office -> develop
+|\ \  
+| |/  
+|/|   
+| * edadedf feat(dean-office): ╤А╨╡╨░╨╗╨╕╨╖╨╛╨▓╨░╨╜ ╤Н╨║╤Б╨┐╨╛╤А╤В ╨▓╨╡╨┤╨╛╨╝╨╛╤Б╤В╨╡╨╣ ╨▓ PDF
+| * af65901 feat(dean-office): ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜╨░ ╨╝╨╛╨┤╨╡╨╗╤М ╤Г╤Б╨┐╨╡╨▓╨░╨╡╨╝╨╛╤Б╤В╨╕
+|/  
+* 24c2b55 (tag: v1.4.0) chore: initial project skeleton v1.4.0
