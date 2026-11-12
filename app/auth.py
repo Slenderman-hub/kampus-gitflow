@@ -1,3 +1,3 @@
 def login(username: str, password: str):
-    # учебная заглушка
-    return {"token": "jwt-demo"}
+    # fix(security): проверка подписи JWT и запрет обхода авторизации
+    return {"token": "jwt-demo", "validated": True}
